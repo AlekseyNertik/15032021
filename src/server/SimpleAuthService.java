@@ -37,7 +37,6 @@ public class SimpleAuthService implements AuthService{
             this.login = login;
             this.password = password;
             this.nickName = nickName;
-
         }
     }
 
